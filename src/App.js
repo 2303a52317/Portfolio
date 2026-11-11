@@ -1,3 +1,4 @@
+
 function App() {
   return (
     <div
@@ -141,6 +142,37 @@ function App() {
             Reinforcement Learning concepts to provide personalized
             music recommendations.
           </p>
+        </div>
+
+        {/* New Project: Realm Runner */}
+        <div
+          style={{
+            background: "#f8f9fa",
+            padding: "15px",
+            borderRadius: "8px",
+            marginBottom: "15px",
+          }}
+        >
+          <h3>Realm Runner – 3D Unity Desert Endless Runner</h3>
+
+          <p>
+            Developed a 3D endless-runner game using Unity 3D and C#,
+            featuring a desert-themed environment. Players navigate
+            through the desert, avoid obstacles, and experience an
+            engaging 3D gameplay adventure.
+          </p>
+
+          <p>
+            <strong>Technologies:</strong> Unity 3D, C#
+          </p>
+
+          <a
+            href="https://github.com/TifeDiceeyy/3D-Endless-Runner"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Project on GitHub
+          </a>
         </div>
 
         {/* Education */}
